@@ -1,10 +1,10 @@
 # Trailhead Profile Public URL
  
    <ul>
-      <li>Team Leader - </li>
-      <li>Team Member 1 - </li>
-      <li>Team Member 2 - </li>
-      <li>Team Member 3 – </li>
+      <li>Team Leader   - Bavanesh S      - https://trailblazer.me/id/pavas28</li>
+      <li>Team Member 1 - Amman M         - https://trailblazer.me/id/amanmalothra</li>
+      <li>Team Member 2 - Manoj D         - https://trailblazer.me/id/manoj0001</li>
+      <li>Team Member 3 – Dhanush kumar G - https://trailblazer.me/id/dkumar2105</li>
   </ul>
   
 # Documentation
