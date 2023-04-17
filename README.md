@@ -7,6 +7,12 @@
       <li>Team Member 3 – Dhanush kumar G - https://trailblazer.me/id/dkumar2105</li>
   </ul>
   
+# Priview
+
+![combined](https://user-images.githubusercontent.com/112567261/232360951-baaf2791-9b9f-4838-b290-fdf02090b41e.png)
+
+
+  
 # Documentation
 
 [money matters.odt](https://github.com/dhanushkumar-dk/Money-Matters/files/11238747/money.matters.odt)
